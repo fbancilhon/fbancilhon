@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fbancilhon
 - 👀 I’m interested in data, AI, digital commons, fake news
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning about Fake News
 - 💞️ I’m looking to collaborate on gathering data about fake news in French
 - 📫 How to reach me by email at francois.bancilhon@gmail.com
 
